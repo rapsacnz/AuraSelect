@@ -17,4 +17,4 @@ To handle the selectChange event, do this:
       helper.doSomething(component, val);
     },
 
-
+There is a "DataChange" event dependency in this component - get it from the DatePicker component.
